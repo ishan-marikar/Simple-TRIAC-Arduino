@@ -1,6 +1,7 @@
 /*
 AC Voltage dimmer with Zero cross detection
 Author: Charith Fernanado http://www.inmojo.com
+.. with a few modifications by Ishan Marikar.
 License: Creative Commons Attribution Share-Alike 3.0 License. 
 
 Attach the Zero cross pin of the module to Arduino External Interrupt pin
